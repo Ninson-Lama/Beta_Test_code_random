@@ -1505,7 +1505,7 @@ export const __webpack_modules__ = {
               , v = null === (n = null == a ? void 0 : a.coverUrl) || void 0 === n ? void 0 : n.url;
             return o.createElement(r.A, {
                 direction: "column",
-                gap: 8
+                gap: 10
             }, o.createElement(u, {
                 backgroundColor: d,
                 "data-feed-card-is-followed": i
